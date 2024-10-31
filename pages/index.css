@@ -105,13 +105,38 @@
     color: white;
 }
 
+.recipes__title{
+    margin-bottom: 24px;
+    font-family: "inter";
+    font-style: normal;
+    font-weight: 500;
+    line-height: 52px;
+}
+
+.recipes__subtitle{
+    margin-bottom: 80px;
+    font-family: "Noto Serif";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+}
+
 .recipes__videos{
     display: flex;
     gap: 100px;
     justify-content: space-around;
 }
 
+.recipes__iframe{
+    margin-bottom: 24px;
+}
+
 .recipes__video-caption{
     display: flex;
     justify-content: space-between;
+    font-family: "Inter";
+    font-style: normal;
+    font-size: 20px;
+    line-height: 30px;
 }
