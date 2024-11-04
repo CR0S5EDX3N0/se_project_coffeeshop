@@ -220,11 +220,11 @@
 @keyframes form__button-hover{
     from{
         background-color: #1878dc;
-        transition: opacity 100%;
+         opacity: 100%;
     }
     to {
         background-color: #3f96f3;
-       transition: opacity 70%;
+        opacity: 70%;
     }
 }
 
