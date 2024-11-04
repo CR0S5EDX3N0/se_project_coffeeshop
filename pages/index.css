@@ -219,10 +219,10 @@
 
 .form__button:hover{
     from{
-        transform: opacity 100%;
+        transition: opacity 100%;
     }
     to{
-       transform: opacity 70%;
+       transition: opacity 70%;
     }
 }
 
