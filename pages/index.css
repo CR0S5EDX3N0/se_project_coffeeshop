@@ -220,10 +220,13 @@
 .form__button:hover{
     from{
         background-color: #1878dc;
-        transition: opacity 100%;}
+        transition: opacity 100%;
+    }
+    
     to{
         background-color: #3f96f3;
-       transition: opacity 70%;}
+       transition: opacity 70%;
+    }
 }
 
 .form__label{
