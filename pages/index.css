@@ -217,8 +217,8 @@
     line-height: 20px;
 }
 
-@keyframes .form__button:hover{
-    from {
+@keyframes form__button-hover{
+    from{
         background-color: #1878dc;
         transition: opacity 100%;
     }
