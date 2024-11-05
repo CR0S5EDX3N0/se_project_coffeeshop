@@ -35,7 +35,7 @@
     height: 60px;
     margin-bottom: 32px;
     border-radius: 4px;
-    font-family: Inter;
+    font-family: 'Inter', Arial, sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -54,7 +54,7 @@
 .form__label{
     display: block;
     margin: 0 0 32px;
-    font-family: Inter;
+    font-family: 'Inter', Arial, sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -67,4 +67,5 @@
     margin-right: 12px;
     display: table-row;
     border-radius: 2px;
+    margin-bottom: 120px;
 }
