@@ -41,8 +41,8 @@
 }
 
 .footer__social-link:hover{
-    cursor: pointer;
-    transition: color #c1c1c1;
+    color: #C1C1C1;
+
 }
 
 .footer__list{
@@ -53,6 +53,10 @@
 
 .footer__list-item{
     margin: 0 0 16px;
+}
+
+.footer__list-item:last-child{
+    margin: 0;
 }
 
 .footer__copyright{
