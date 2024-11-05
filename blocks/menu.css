@@ -1,5 +1,5 @@
 .menu{
-    padding: 100px 0 100px;
+    padding: 100px 0;
     background: url(../images/background_menu.svg);
     background-color: #fff;
     background-repeat: no-repeat;
@@ -33,9 +33,9 @@
 .menu__cards{
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     gap: 100px;
     padding: 0;
     margin: 0;
     list-style-type: none;
-    justify-content: center
 }
