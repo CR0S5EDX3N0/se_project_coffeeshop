@@ -17,7 +17,7 @@
 
 .footer__social-heading{
     margin: 0 0 20px;
-    font-family: 'Inter', Arial, sans-serif;
+    font-family: 'Inter' Arial, sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 16px;
@@ -33,16 +33,16 @@
 .footer__social-link{
     color: white;
     text-decoration: none;
-    font-family: 'Inter', Arial, sans-serif;
+    font-family: 'Inter' Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 20px;
+    transition: color 0.5s;
 }
 
 .footer__social-link:hover{
     color: #C1C1C1;
-
 }
 
 .footer__list{
@@ -60,9 +60,10 @@
 }
 
 .footer__copyright{
-    font-family: 'Inter', Arial, sans-serif;
+    font-family: 'Inter' Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 20px;
+    margin: 0;
 }

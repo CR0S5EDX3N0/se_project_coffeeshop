@@ -22,13 +22,13 @@
 
 .menu__subtitle{
     margin: 0 0 100px;
-    font-family: "Inter", "Arial", sans-serif; 
+    font-family: 'Inter', Arial, sans-serif; 
     font-style: normal; 
     font-weight: normal; 
     font-size: 20px; 
     line-height: 30px;
     max-width: 780px;
-    align-items: center;
+    text-align: center;
 }
 
 .menu__cards{
