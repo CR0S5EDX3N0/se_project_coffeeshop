@@ -27,15 +27,15 @@
 .header__description{
     max-width: 683px;
     margin: 28px 0 0;
-    font-family: 'Inter', Arial, sans-serif;
-    font-weight: 400;
+    font-family: "Noto Serif", "Times New Roman", serif;
+    font-weight: 500;
     font-size: 20px;
     line-height: 30px;
 }
 
 .header__span-accent{
     display: flex;
-    font-family: "Inter" "Arial", sans-serif;
+    font-family: 'Inter', Arial, sans-serif;
     font-style: italic;
     font-weight: 400;
     line-height: 72px;
@@ -46,7 +46,7 @@
     display: flex;
     justify-content: space-between;
     margin-top: auto;
-    font-family: 'Inter' Arial, sans-serif;
+    font-family: 'Inter', Arial, sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -57,7 +57,7 @@
 
 .header__paragraph{
     margin: 0;
-    font-family: "Inter" arial, sans-serif;
+    font-family: 'Inter', Arial, sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;

@@ -44,6 +44,7 @@
     color:white;
     cursor: pointer;
     transition: background-color 0.5s;
+    margin-top: 32px;
 }
 
  .form__button:hover{
@@ -52,6 +53,7 @@
 
 .form__label_type_checkbox{
     margin-top: 32px;
+    display: flex;
 }
 
 .form__label{
@@ -71,6 +73,5 @@
     width: 20px;
     height: 20px;
     margin-right: 12px;
-    display: table-row;
     border-radius: 2px;
 }
