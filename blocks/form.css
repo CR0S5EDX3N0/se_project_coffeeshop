@@ -26,6 +26,7 @@
     border-color: #838383;
     border-width: 1px;
     border-style: solid;
+    margin-bottom: 32px;
 }
 
 .form__button{
@@ -44,7 +45,6 @@
     color:white;
     cursor: pointer;
     transition: background-color 0.5s;
-    margin-top: 32px;
 }
 
  .form__button:hover{
